@@ -1,3 +1,9 @@
+#!/bin/bash
+
+# Author : Ankush Bhagat
+# Copyright ©2020
+# Script follows here:
+
 echo
 echo 'Downloading requirements...' | lolcat
 
